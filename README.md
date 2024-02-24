@@ -5,11 +5,11 @@
 <h1 align="center">Rocketseat NLW Expert – Node.js</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/oliveiralecca/rocketseat-nlw-expert-react-native?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/oliveiralecca/rocketseat-nlw-expert-nodejs?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/oliveiralecca/rocketseat-nlw-expert-react-native?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/oliveiralecca/rocketseat-nlw-expert-nodejs?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/oliveiralecca/rocketseat-nlw-expert-react-native?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/oliveiralecca/rocketseat-nlw-expert-nodejs?color=56BEB8">
 </p>
 
 <p align="center">
@@ -39,6 +39,7 @@ This project was developed on the 14th edition of Rocketseat's famous event call
 The following tools were used in this project:
 
 - [Node.js](https://nodejs.org/en)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Fastify](https://fastify.dev/)
 - [Prisma](https://www.prisma.io/)
 - [PostgreSQL](https://www.postgresql.org/)
